@@ -35,13 +35,6 @@ Lack of ubiquity
 Lack of forward secrecy
 In October 2017, the ROCA vulnerability was announced that affects RSA keys generated on the Yubikey 4 tokens, often used with PGP. Many published PGP keys were found to be susceptible.
 
-This is free Excepet for windows
-
-Cert and Encryption
-- Contact/Instructions
-- RSA 4690
-- Linux, if Shattered Windows or crap MAC somehow becomes the only choice * Not suggested Obviously
-
 What the large email companies do that is very, very greasyshithanded for users:
 
 G00Gle 
